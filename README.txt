@@ -1,4 +1,10 @@
-==================================================================================================
+
+Designed to be my Portfolio and About me Page
+
+
+
+
+
 
 SOURCES AND CREDITS:
 
@@ -27,3 +33,4 @@ Javascript Files:
  - Imagesloaded (https://imagesloaded.desandro.com/)
  - Parallax.js (http://pixelcog.github.io/parallax.js/)
  - Slick Slider (http://kenwheeler.github.io/slick/)
+
