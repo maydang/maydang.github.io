@@ -92,6 +92,35 @@ body {
     padding: 0;
 }
 
+.typing {
+  display: flex;
+  margin-left: 10px;
+  position: relative;
+}
+
+.typing::after{
+  content: "";
+  display: block;
+  position: absolute;
+  width: 1px;
+  height: 90%;
+  animation: blink 0.5s infinite ease;
+}
+
+/* ===================================================================
+ * # keyframe animation-------- */
+
+@keyframes blink{
+  0%{
+    opacity: 0;
+  }
+
+  100%{
+    opacity: 1;
+  }
+}
+
+
 
 /* -------------------------------------------------------------------
  * ## links - (_document-setup.scss)
@@ -3314,7 +3343,7 @@ footer a, footer a:visited {
 }
 
 footer a:hover, footer a:focus {
-    color: #FFFFFF;
+    color: #5a5757;
 }
 
 .footer-logo {
@@ -3367,7 +3396,7 @@ footer a:hover, footer a:focus {
 }
 
 .footer-social li a {
-    color: #FFFFFF;
+    color: #5a5757;
 }
 
 .footer-social li:last-child {
@@ -3433,7 +3462,7 @@ footer a:hover, footer a:focus {
 }
 
 .go-top a:hover, .go-top a:focus {
-    color: #FFFFFF;
+    color: #5a5757;
 }
 
 

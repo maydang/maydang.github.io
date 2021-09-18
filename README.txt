@@ -1,4 +1,3 @@
-==================================================================================================
 
 Designed to be my Portfolio and About me Page
 
@@ -7,16 +6,13 @@ Designed to be my Portfolio and About me Page
 
 
 
------------------------------------------------------------------------------------------------------- 
-
-
 SOURCES AND CREDITS:
 
 I've used the following resources as listed.
 
 Fonts:
  - Montserrat Font (https://www.google.com/fonts/specimen/Montserrat)
- - Libre Baskerville Font (https://fonts.google.com/specimen/Libre+Baskerville) 
+ - Libre Baskerville Font (https://fonts.google.com/specimen/Libre+Baskerville)
 
 Icons:
  - Iconic font (https://iconmonstr.com/iconicfont/)
@@ -24,7 +20,7 @@ Icons:
 Stock Photos and Graphics:
  - Unsplash.com (https://unsplash.com/)
  - gratisography (https://gratisography.com/)
- 
+
 Javascript Files:
 
  - JQuery (http://jquery.com/)
@@ -37,11 +33,4 @@ Javascript Files:
  - Imagesloaded (https://imagesloaded.desandro.com/)
  - Parallax.js (http://pixelcog.github.io/parallax.js/)
  - Slick Slider (http://kenwheeler.github.io/slick/)
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
-
 
