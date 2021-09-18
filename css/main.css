@@ -100,10 +100,10 @@ body {
 
 .typing::after{
   content: "";
+  display: block;
   position: absolute;
   width: 1px;
   height: 90%;
-  border-right: 2px solid white;
   animation: blink 0.5s infinite ease;
 }
 
@@ -3343,7 +3343,7 @@ footer a, footer a:visited {
 }
 
 footer a:hover, footer a:focus {
-    color: #FFFFFF;
+    color: #5a5757;
 }
 
 .footer-logo {
@@ -3396,7 +3396,7 @@ footer a:hover, footer a:focus {
 }
 
 .footer-social li a {
-    color: #FFFFFF;
+    color: #5a5757;
 }
 
 .footer-social li:last-child {
@@ -3462,7 +3462,7 @@ footer a:hover, footer a:focus {
 }
 
 .go-top a:hover, .go-top a:focus {
-    color: #FFFFFF;
+    color: #5a5757;
 }
 
 

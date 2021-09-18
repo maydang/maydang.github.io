@@ -1,4 +1,4 @@
-const texts =['a fullstack developer', 'a human bean', 'an anime enthusiast'];
+const texts =['a fullstack developer', 'a human bean', 'a home cook'];
 let count = 0;
 let index = 0;
 let currentText = '';
