@@ -127,13 +127,13 @@ body {
  * ------------------------------------------------------------------- */
 
 a {
-    color: #7494fd;
+    color: #9e0000;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
 
 a:hover, a:focus, a:active {
-    color: #191A3F;
+    color: #9e0000;
 }
 
 a:focus {
@@ -406,7 +406,7 @@ ul.disc li::before {
     width: 8px;
     height: 8px;
     border-radius: 50%;
-    background: #7494fd;
+    background: #9e0000;
     position: absolute;
     left: -17px;
     top: 11px;
@@ -415,7 +415,7 @@ ul.disc li::before {
 
 dt {
     margin: 0;
-    color: #7494fd;
+    color: #9e0000;
 }
 
 dd {
@@ -546,7 +546,7 @@ form,
 }
 
 .pace .pace-progress {
-    background: #7494fd;
+    background: #9e0000;
     position: fixed;
     z-index: 900;
     top: 0;
@@ -591,7 +591,7 @@ form,
     margin-left: -30px;
     margin-top: -30px;
     padding: 0;
-    background-color: #7494fd;
+    background-color: #9e0000;
     border-radius: 100%;
     -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
     animation: sk-scaleout 1.0s infinite ease-in-out;
@@ -859,8 +859,8 @@ button.btn--primary:focus,
 input[type="submit"].btn--primary:focus,
 input[type="reset"].btn--primary:focus,
 input[type="button"].btn--primary:focus {
-    background: #7494fd;
-    border-color: #7494fd;
+    background: #9e0000;
+    border-color: #9e0000;
 }
 
 
@@ -889,8 +889,8 @@ input[type="button"].btn--primary:focus {
 }
 
 .btn--stroke:hover, button.btn--stroke:hover {
-    border: 0.3rem solid #7494fd;
-    color: #7494fd;
+    border: 0.3rem solid #9e0000;
+    color: #9e0000;
 }
 
 .btn--pill, button.btn--pill {
@@ -1116,7 +1116,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-    color: #7494fd;
+    color: #9e0000;
 }
 
 .stats-tabs li a em {
@@ -1305,7 +1305,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .section-intro h3 {
     font-family: "montserrat-semibold", sans-serif;
     font-size: 2rem;
-    color: #7494fd;
+    color: #9e0000;
     text-transform: uppercase;
     letter-spacing: .15rem;
     margin-top: 0;
@@ -1409,11 +1409,11 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .blog-list .blog-date {
     font-family: "montserrat-regular", sans-serif;
     font-size: 1.5rem;
-    color: #7494fd;
+    color: #9e0000;
 }
 
 .blog-list .blog-date a {
-    color: #7494fd;
+    color: #9e0000;
 }
 
 .blog-list .blog-date a:hover,
@@ -1438,7 +1438,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .blog-list .blog-cat a:hover,
 .blog-list .blog-cat a:focus,
 .blog-list .blog-cat a:active {
-    color: #7494fd;
+    color: #9e0000;
 }
 
 .blog-list .blog-cat a::after {
@@ -1804,7 +1804,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .home-content h3 {
     font-family: "montserrat-bold", sans-serif;
     font-size: 1.8rem;
-    color: #7494fd;
+    color: #9e0000;
     text-transform: uppercase;
     letter-spacing: .5rem;
     position: relative;
@@ -1818,7 +1818,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     content: "";
     width: 60px;
     height: 2px;
-    background-color: #7494fd;
+    background-color: #9e0000;
     margin-top: -1.5px;
     position: absolute;
     left: 0;
@@ -3014,7 +3014,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .stats__col--highlight .stats__count::after {
-    background-color: #7494fd;
+    background-color: #9e0000;
 }
 
 .stats__col--highlight h4 {
@@ -3126,7 +3126,7 @@ html.no-csstransitions .home-content__main {
     padding: 0 2rem;
     margin: 0;
     color: #FFFFFF;
-    background: #7494fd;
+    background: #9e0000;
 }
 
 .s-contact .form-field label::after {
@@ -3137,7 +3137,7 @@ html.no-csstransitions .home-content__main {
     margin-top: -6px;
     border-top: 5px solid transparent;
     border-bottom: 5px solid transparent;
-    border-right: 5px solid #7494fd;
+    border-right: 5px solid #9e0000;
 }
 
 .contact__main {
@@ -3181,8 +3181,8 @@ html.no-csstransitions .home-content__main {
 
 .contact__form button {
     margin-top: 4.2rem;
-    background-color: #7494fd;
-    border-color: #7494fd;
+    background-color: #9e0000;
+    border-color: #9e0000;
 }
 
 .message-warning, .message-success {
@@ -3342,7 +3342,7 @@ footer {
 }
 
 footer a, footer a:visited {
-    color: #7494fd;
+    color: #790a0a;
 }
 
 footer a:hover, footer a:focus {
