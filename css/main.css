@@ -1150,6 +1150,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
   justify-content: center;
   align-items: center;
   transition: transform 0.3 ease;
+  border-radius: 15px;
 }
 
 .skill-tag::after, .skill-tag::before{
@@ -1163,19 +1164,24 @@ button::-moz-focus-inner, input::-moz-focus-inner {
   bottom: 0;
   z-index: -1;
   transition: transform 0.3s ease;
+  border-radius: 15px;
 }
 
 .skill-tag:hover{
   transform: translate(-12px, -12px);
   color: white;
+  border-radius: 15px;
+
 }
 
 .skill-tag::after{
-  transform: translate(6px, 6px)
+  transform: translate(6px, 6px);
+  border-radius: 15px;
 }
 
 .skill-tag::after{
-  transform: translate(12px, 12px)
+  transform: translate(12px, 12px);
+  border-radius: 15px;
 }
 
 
